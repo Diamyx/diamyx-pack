@@ -1,4 +1,3 @@
-# diamyx pack
 ![pack.png](https://raw.githubusercontent.com/Diamyx/diamyx-pack/master/pack.png)
 
 a pack by diamyx
