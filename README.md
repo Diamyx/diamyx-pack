@@ -1,5 +1,5 @@
 # diamyx pack
-![id](https://raw.githubusercontent.com/Diamyx/diamyx-pack/master/pack.png)
+![pack.png](https://raw.githubusercontent.com/Diamyx/diamyx-pack/master/pack.png)
 
 a pack by diamyx
 
