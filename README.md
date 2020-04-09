@@ -4,7 +4,6 @@
     <img src="https://i.imgur.com/Pd19Xpx.png" width="1919" height="400" title="Downloads">
   </a>
 </p>
-![pack.png](https://raw.githubusercontent.com/Diamyx/diamyx-pack/master/pack.png)
 
 a pack by diamyx
 
