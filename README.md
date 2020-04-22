@@ -11,4 +11,8 @@ for minecraft 1.7/1.8
   </a>
 </p>
 
+## alternative textures (hardcore pvpers only)
 
+<a href="https://www.mediafire.com/file/n4axm2uqidz1wyr/bow_indicator.zip/file">bow indicator</a>
+
+<a href="https://www.mediafire.com/file/842sl01860w2xnn/swords.zip/file">short swords</a>
