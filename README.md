@@ -9,6 +9,9 @@ for minecraft 1.7/1.8
   <a href="https://github.com/Diamyx/diamyx-pack/archive/master.zip">
     <img src="https://i.imgur.com/tBC8aT3.png" width="1919" height="420" title="Download">
   </a>
+  
+  <a href="https://github.com/Diamyx/diamyx-pack/archive/master.zip">Download</a>
+  
 </p>
 
 ## alternative textures (hardcore pvpers only)
